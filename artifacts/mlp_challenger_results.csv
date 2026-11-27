@@ -1,0 +1,7 @@
+model,device,target,feature_set,epochs,n,mlp_mae,sd,lightgbm_l1_mae,mlp_minus_lgbm,secs
+MLP challenger,cpu,total_dose_iu,strict_day0,20,2883,895.61,2.13,880.11,15.5,94
+MLP challenger,cpu,total_dose_iu,oct_core (compare),20,2883,894.42,1.72,879.7,14.72,86
+MLP challenger,cpu,total_dose_iu,oct_plan (compare),20,2883,844.06,2.72,825.1,18.96,87
+MLP challenger,cpu,start_daily_iu,strict_day0,50,1698,69.59,0.34,67.27,2.32,128
+MLP challenger,cpu,start_daily_iu,oct_core (compare),50,1698,68.45,0.23,67.34,1.11,132
+MLP challenger,cpu,start_daily_iu,oct_plan (compare),50,1698,61.71,0.41,59.8,1.91,137

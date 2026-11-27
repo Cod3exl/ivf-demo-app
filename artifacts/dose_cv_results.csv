@@ -1,0 +1,9 @@
+target,feature_set,n,cv_mae,sd_over_runs,october_bar,note,secs
+total_dose_iu,strict_day0,2883,880.11,1.36,,"STRICT: pre-prescription only (no stim_protocol, no drug flags)",19
+total_dose_iu,strict_day0_semen_dfi,2883,879.03,1.64,,STRICT + semen/DFI (sparse),21
+total_dose_iu,oct_core (compare),2883,879.7,1.04,879.4,"October day0_core: includes stim_protocol. Comparable to 879.4 / 67.35 bar, NOT strict",19
+total_dose_iu,oct_plan (compare),2883,825.1,1.46,825.0,"October day0_plan: includes drug flags. Comparable to 825.0 / 59.8 bar, NOT strict",20
+start_daily_iu,strict_day0,1698,67.27,0.28,,"STRICT: pre-prescription only (no stim_protocol, no drug flags)",17
+start_daily_iu,strict_day0_semen_dfi,1698,67.48,0.2,,STRICT + semen/DFI (sparse),18
+start_daily_iu,oct_core (compare),1698,67.34,0.25,67.35,"October day0_core: includes stim_protocol. Comparable to 879.4 / 67.35 bar, NOT strict",17
+start_daily_iu,oct_plan (compare),1698,59.8,0.28,59.8,"October day0_plan: includes drug flags. Comparable to 825.0 / 59.8 bar, NOT strict",17

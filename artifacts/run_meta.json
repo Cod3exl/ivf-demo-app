@@ -1,0 +1,1 @@
+{"features_num": ["age", "amh", "bmi", "afc_total", "fsh_d2", "lh_basal", "e2_downreg", "cycle_number", "prev_ivf_any", "prev_ivf_count"], "features_cat": ["infertility_type", "indication", "pretreatment_cat"], "dev_rows": 3477, "locked_test_rows_untouched": 580}
